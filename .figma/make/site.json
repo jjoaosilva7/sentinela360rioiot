@@ -1,0 +1,10 @@
+{
+  "description": "Explore the Instagram Reel and its creator, with a focused view for watching and sharing short-form video content.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

@@ -1,0 +1,237 @@
+[
+  {
+    "id": "S360-0118",
+    "tipo": "nao_licenciado",
+    "data": "2025-05-15",
+    "horario": "17:21:40",
+    "camera": "CAM-RJ-088",
+    "local": "Av. Ayrton Senna, sentido Linha Amarela — Barra da Tijuca",
+    "confianca": 1.0,
+    "status": "novo",
+    "duracaoSegundos": 6,
+    "descricao": "A câmera lê as placas dos veículos na via. A consulta simulada à base aponta restrição na placa do monovolume preto (licenciamento vencido desde 2023); a da motocicleta está regular.",
+    "imagem": "s360-0118.jpg",
+    "marcacao": {
+      "x": 16.7,
+      "y": 62.43,
+      "w": 10.16,
+      "h": 8.29
+    },
+    "placa": "RJB3D58",
+    "ultimoLicenciamento": 2023,
+    "marcacoesExtras": [
+      {
+        "tipo": "nao_licenciado",
+        "x": 58.26,
+        "y": 70.17,
+        "w": 5.99,
+        "h": 7.18,
+        "rotulo": "PLACA RJM8A42 · LICENCIAMENTO OK",
+        "neutra": true
+      }
+    ]
+  },
+  {
+    "id": "S360-0117",
+    "tipo": "bloqueio_cruzamento",
+    "data": "2025-05-15",
+    "horario": "17:06:33",
+    "camera": "CAM-RJ-066",
+    "local": "Rua Dias da Cruz × Rua Aristides Caire — Méier",
+    "confianca": 0.83,
+    "status": "novo",
+    "duracaoSegundos": 23,
+    "descricao": "Hatch prata entra no cruzamento com a fila parada à frente e fica sobre a área demarcada, travando o fluxo da via transversal.",
+    "imagem": "s360-0117.jpg",
+    "marcacao": {
+      "x": 43.75,
+      "y": 48.74,
+      "w": 18.36,
+      "h": 18.49
+    }
+  },
+  {
+    "id": "S360-0116",
+    "tipo": "bloqueio_cruzamento",
+    "data": "2025-05-15",
+    "horario": "16:52:10",
+    "camera": "CAM-RJ-026",
+    "local": "Rua Haddock Lobo × Rua São Francisco Xavier — Tijuca",
+    "confianca": 0.95,
+    "status": "novo",
+    "duracaoSegundos": 41,
+    "descricao": "Sedã branco avança com o semáforo vermelho e para sobre a área amarela, sob a placa “Proibido parar no cruzamento”, bloqueando a travessia.",
+    "imagem": "s360-0116.jpg",
+    "marcacao": {
+      "x": 37.5,
+      "y": 44.81,
+      "w": 26.07,
+      "h": 21.13
+    }
+  },
+  {
+    "id": "S360-0115",
+    "tipo": "celular",
+    "data": "2025-05-15",
+    "horario": "16:18:44",
+    "camera": "CAM-RJ-092",
+    "local": "Av. Brasil, altura de Irajá — pista central",
+    "confianca": 0.96,
+    "status": "novo",
+    "duracaoSegundos": 9,
+    "descricao": "Condutor do sedã prata manuseia o celular com a mão direita enquanto dirige e não usa o cinto de segurança: a faixa não aparece sobre o ombro e o tórax.",
+    "imagem": "s360-0115.jpg",
+    "marcacao": {
+      "x": 49.86,
+      "y": 28.6,
+      "w": 5.94,
+      "h": 7.1
+    },
+    "infracoes": [
+      "celular",
+      "cinto"
+    ],
+    "marcacoesExtras": [
+      {
+        "tipo": "cinto",
+        "x": 56.76,
+        "y": 23.52,
+        "w": 13.71,
+        "h": 11.65
+      }
+    ]
+  },
+  {
+    "id": "S360-0114",
+    "tipo": "celular",
+    "data": "2025-05-15",
+    "horario": "15:41:07",
+    "camera": "CAM-RJ-071",
+    "local": "Av. Brasil × Rua Leopoldo Bulhões — Bonsucesso",
+    "confianca": 0.97,
+    "status": "novo",
+    "duracaoSegundos": 11,
+    "descricao": "Condutor do carro branco segura o celular com a mão direita e olha para a tela enquanto conduz; motociclista trafega ao lado.",
+    "imagem": "s360-0114.jpg",
+    "marcacao": {
+      "x": 36.67,
+      "y": 23.08,
+      "w": 13.67,
+      "h": 14.5
+    }
+  },
+  {
+    "id": "S360-0113",
+    "tipo": "bloqueio_cruzamento",
+    "data": "2025-05-15",
+    "horario": "14:47:12",
+    "camera": "CAM-RJ-031",
+    "local": "Av. Presidente Vargas × Rua Uruguaiana — Centro",
+    "confianca": 0.94,
+    "status": "novo",
+    "duracaoSegundos": 52,
+    "descricao": "Carro branco avança e permanece sobre a área amarela enquanto o fluxo transversal aguarda; motocicletas precisam contornar o veículo.",
+    "imagem": "s360-0113.jpg",
+    "marcacao": {
+      "x": 38.52,
+      "y": 27.76,
+      "w": 16.61,
+      "h": 13.03
+    }
+  },
+  {
+    "id": "S360-0112",
+    "tipo": "bloqueio_cruzamento",
+    "data": "2025-05-15",
+    "horario": "13:58:03",
+    "camera": "CAM-RJ-007",
+    "local": "Av. Rio Branco × Av. Presidente Vargas — Centro",
+    "confianca": 0.86,
+    "status": "novo",
+    "duracaoSegundos": 47,
+    "descricao": "Carro branco fica retido no meio do cruzamento, cercado por motocicletas, impedindo a passagem dos veículos da via transversal.",
+    "imagem": "s360-0112.jpg",
+    "marcacao": {
+      "x": 45.5,
+      "y": 52.21,
+      "w": 8.5,
+      "h": 14.2
+    }
+  },
+  {
+    "id": "S360-0110",
+    "tipo": "caminhao_esquerda",
+    "data": "2025-05-15",
+    "horario": "12:36:20",
+    "camera": "CAM-RJ-090",
+    "local": "Av. Brasil, altura de Guadalupe — pista central",
+    "confianca": 0.89,
+    "status": "novo",
+    "duracaoSegundos": 20,
+    "descricao": "Caminhão branco segue na faixa da esquerda, junto ao canteiro central, enquanto os demais caminhões ocupam as faixas da direita.",
+    "imagem": "s360-0110.jpg",
+    "marcacao": {
+      "x": 57.03,
+      "y": 35.65,
+      "w": 22.66,
+      "h": 42.13
+    }
+  },
+  {
+    "id": "S360-0107",
+    "tipo": "cinto",
+    "data": "2025-05-15",
+    "horario": "11:03:51",
+    "camera": "CAM-RJ-081",
+    "local": "Av. Brasil × Av. Lobo Júnior — Penha",
+    "confianca": 0.91,
+    "status": "confirmado",
+    "duracaoSegundos": 12,
+    "descricao": "Condutor da picape branca dirige sem o cinto de segurança: a faixa diagonal não aparece sobre o ombro e o tórax.",
+    "imagem": "s360-0107.jpg",
+    "marcacao": {
+      "x": 57.11,
+      "y": 19.49,
+      "w": 17.89,
+      "h": 23.47
+    }
+  },
+  {
+    "id": "S360-0105",
+    "tipo": "bloqueio_cruzamento",
+    "data": "2025-05-15",
+    "horario": "09:44:36",
+    "camera": "CAM-RJ-078",
+    "local": "Av. Atlântica, junto à orla — Copacabana",
+    "confianca": 0.92,
+    "status": "confirmado",
+    "duracaoSegundos": 74,
+    "descricao": "Táxi amarelo, picape prata e outros carros param sobre a área amarela durante o congestionamento na orla, travando o cruzamento.",
+    "imagem": "s360-0105.jpg",
+    "marcacao": {
+      "x": 38.59,
+      "y": 54.72,
+      "w": 11.56,
+      "h": 12.22
+    }
+  },
+  {
+    "id": "S360-0103",
+    "tipo": "caminhao_esquerda",
+    "data": "2025-05-15",
+    "horario": "08:22:08",
+    "camera": "CAM-RJ-093",
+    "local": "Linha Amarela, sentido Fundão — altura de Del Castilho",
+    "confianca": 0.84,
+    "status": "novo",
+    "duracaoSegundos": 26,
+    "descricao": "Carreta branca trafega na faixa da esquerda enquanto as faixas da direita estão livres.",
+    "imagem": "s360-0103.jpg",
+    "marcacao": {
+      "x": 15.8,
+      "y": 59.67,
+      "w": 24.4,
+      "h": 40.33
+    }
+  }
+]
